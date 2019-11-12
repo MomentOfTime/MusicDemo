@@ -1,0 +1,397 @@
+{
+  "album": [
+    {
+      "albumId": "1",
+      "name": "热歌1",
+      "poster": "http://ww1.sinaimg.cn/large/0065oQSqly1g2pquqlp0nj30n00yiq8u.jpg",
+      "playNum": "203.3万",
+      "list": [
+        {
+          "musicId": "101",
+          "name": "甩葱歌",
+          "poster": "https://p2.music.126.net/bnccFHQX2nfoHNBLR31yiA==/109951163576855784.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=223339.mp3",
+          "author": "初XX来"
+        },
+        {
+          "musicId": "102",
+          "name": "野狼disco",
+          "poster": "https://p2.music.126.net/USRrIEfSNxJ4JnfKp4f6pA==/109951164470147956.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=1357785909.mp3",
+          "author": "宝石gem"
+        },
+        {
+          "musicId": "103",
+          "name": "カサネテク",
+          "poster": "https://p1.music.126.net/KjtVVY8u1uRXbbZ7KjgOsw==/18554258720604958.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=474739593.mp3",
+          "author": "中村千寻"
+        },
+        {
+          "musicId": "104",
+          "name": "恋愛サーキュレーション",
+          "poster": "https://p1.music.126.net/hWrYLdhzF4waj4WL1dFPmg==/642114790633458.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=579954.mp3",
+          "author": "花澤香菜"
+        },
+        {
+          "musicId": "105",
+          "name": "Love Story",
+          "poster": "https://p1.music.126.net/KurKrZ-dMmviArT5lM2RCQ==/18517974836953202.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=569734247.mp3",
+          "author": "Taylor Swift"
+        },
+        {
+          "musicId": "106",
+          "name": "达拉崩吧（Cover 洛天依&言和）",
+          "poster": "https://p2.music.126.net/jMu6AAEFHQeg0wHSuWK5iQ==/109951162920302240.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=476114873.mp3",
+          "author": "三无MarBlue"
+        },
+        {
+          "musicId": "107",
+          "name": "我好像在哪里见过你（Cover 薛之谦）",
+          "poster": "https://p1.music.126.net/SyHtkjyFvGxm1GHFknHsQQ==/109951163000086113.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=501953290.mp3",
+          "author": "薛之谦"
+        }
+      ]
+    },
+    {
+      "albumId": "2",
+      "name": "热歌2",
+      "poster": "https://ws1.sinaimg.cn/large/0065oQSqgy1fze94uew3jj30qo10cdka.jpg",
+      "playNum": "203.3万",
+      "list": [
+        {
+          "musicId": "201",
+          "name": "甩葱歌",
+          "poster": "https://p2.music.126.net/bnccFHQX2nfoHNBLR31yiA==/109951163576855784.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=223339.mp3",
+          "author": "初XX来"
+        },
+        {
+          "musicId": "202",
+          "name": "野狼disco",
+          "poster": "https://p2.music.126.net/USRrIEfSNxJ4JnfKp4f6pA==/109951164470147956.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=1357785909.mp3",
+          "author": "宝石gem"
+        },
+        {
+          "musicId": "203",
+          "name": "カサネテク",
+          "poster": "https://p1.music.126.net/KjtVVY8u1uRXbbZ7KjgOsw==/18554258720604958.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=474739593.mp3",
+          "author": "中村千寻"
+        },
+        {
+          "musicId": "204",
+          "name": "恋愛サーキュレーション",
+          "poster": "https://p1.music.126.net/hWrYLdhzF4waj4WL1dFPmg==/642114790633458.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=579954.mp3",
+          "author": "花澤香菜"
+        },
+        {
+          "musicId": "205",
+          "name": "Love Story",
+          "poster": "https://p1.music.126.net/KurKrZ-dMmviArT5lM2RCQ==/18517974836953202.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=569734247.mp3",
+          "author": "Taylor Swift"
+        },
+        {
+          "musicId": "206",
+          "name": "达拉崩吧（Cover 洛天依&言和）",
+          "poster": "https://p2.music.126.net/jMu6AAEFHQeg0wHSuWK5iQ==/109951162920302240.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=476114873.mp3",
+          "author": "三无MarBlue"
+        },
+        {
+          "musicId": "207",
+          "name": "我好像在哪里见过你（Cover 薛之谦）",
+          "poster": "https://p1.music.126.net/SyHtkjyFvGxm1GHFknHsQQ==/109951163000086113.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=501953290.mp3",
+          "author": "薛之谦"
+        }
+      ]
+    },
+    {
+      "albumId": "3",
+      "name": "热歌3",
+      "poster": "https://ws1.sinaimg.cn/large/0065oQSqly1fytdr77urlj30sg10najf.jpg",
+      "playNum": "203.3万",
+      "list": [
+        {
+          "musicId": "301",
+          "name": "甩葱歌",
+          "poster": "https://p2.music.126.net/bnccFHQX2nfoHNBLR31yiA==/109951163576855784.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=223339.mp3",
+          "author": "初XX来"
+        },
+        {
+          "musicId": "302",
+          "name": "野狼disco",
+          "poster": "https://p2.music.126.net/USRrIEfSNxJ4JnfKp4f6pA==/109951164470147956.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=1357785909.mp3",
+          "author": "宝石gem"
+        },
+        {
+          "musicId": "303",
+          "name": "カサネテク",
+          "poster": "https://p1.music.126.net/KjtVVY8u1uRXbbZ7KjgOsw==/18554258720604958.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=474739593.mp3",
+          "author": "中村千寻"
+        },
+        {
+          "musicId": "304",
+          "name": "恋愛サーキュレーション",
+          "poster": "https://p1.music.126.net/hWrYLdhzF4waj4WL1dFPmg==/642114790633458.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=579954.mp3",
+          "author": "花澤香菜"
+        },
+        {
+          "musicId": "305",
+          "name": "Love Story",
+          "poster": "https://p1.music.126.net/KurKrZ-dMmviArT5lM2RCQ==/18517974836953202.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=569734247.mp3",
+          "author": "Taylor Swift"
+        },
+        {
+          "musicId": "306",
+          "name": "达拉崩吧（Cover 洛天依&言和）",
+          "poster": "https://p2.music.126.net/jMu6AAEFHQeg0wHSuWK5iQ==/109951162920302240.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=476114873.mp3",
+          "author": "三无MarBlue"
+        },
+        {
+          "musicId": "307",
+          "name": "我好像在哪里见过你（Cover 薛之谦）",
+          "poster": "https://p1.music.126.net/SyHtkjyFvGxm1GHFknHsQQ==/109951163000086113.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=501953290.mp3",
+          "author": "薛之谦"
+        }
+      ]
+    },
+    {
+      "albumId": "4",
+      "name": "热歌4",
+      "poster": "https://ws1.sinaimg.cn/large/0065oQSqly1fymj13tnjmj30r60zf79k.jpg",
+      "playNum": "203.3万",
+      "list": [
+        {
+          "musicId": "401",
+          "name": "甩葱歌",
+          "poster": "https://p2.music.126.net/bnccFHQX2nfoHNBLR31yiA==/109951163576855784.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=223339.mp3",
+          "author": "初XX来"
+        },
+        {
+          "musicId": "402",
+          "name": "野狼disco",
+          "poster": "https://p2.music.126.net/USRrIEfSNxJ4JnfKp4f6pA==/109951164470147956.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=1357785909.mp3",
+          "author": "宝石gem"
+        },
+        {
+          "musicId": "403",
+          "name": "カサネテク",
+          "poster": "https://p1.music.126.net/KjtVVY8u1uRXbbZ7KjgOsw==/18554258720604958.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=474739593.mp3",
+          "author": "中村千寻"
+        },
+        {
+          "musicId": "404",
+          "name": "恋愛サーキュレーション",
+          "poster": "https://p1.music.126.net/hWrYLdhzF4waj4WL1dFPmg==/642114790633458.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=579954.mp3",
+          "author": "花澤香菜"
+        },
+        {
+          "musicId": "405",
+          "name": "Love Story",
+          "poster": "https://p1.music.126.net/KurKrZ-dMmviArT5lM2RCQ==/18517974836953202.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=569734247.mp3",
+          "author": "Taylor Swift"
+        },
+        {
+          "musicId": "406",
+          "name": "达拉崩吧（Cover 洛天依&言和）",
+          "poster": "https://p2.music.126.net/jMu6AAEFHQeg0wHSuWK5iQ==/109951162920302240.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=476114873.mp3",
+          "author": "三无MarBlue"
+        },
+        {
+          "musicId": "407",
+          "name": "我好像在哪里见过你（Cover 薛之谦）",
+          "poster": "https://p1.music.126.net/SyHtkjyFvGxm1GHFknHsQQ==/109951163000086113.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=501953290.mp3",
+          "author": "薛之谦"
+        }
+      ]
+    },
+    {
+      "albumId": "5",
+      "name": "热歌5",
+      "poster": "https://ws1.sinaimg.cn/large/0065oQSqgy1fy58bi1wlgj30sg10hguu.jpg",
+      "playNum": "203.3万",
+      "list": [
+        {
+          "musicId": "501",
+          "name": "甩葱歌",
+          "poster": "https://p2.music.126.net/bnccFHQX2nfoHNBLR31yiA==/109951163576855784.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=223339.mp3",
+          "author": "初XX来"
+        },
+        {
+          "musicId": "502",
+          "name": "野狼disco",
+          "poster": "https://p2.music.126.net/USRrIEfSNxJ4JnfKp4f6pA==/109951164470147956.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=1357785909.mp3",
+          "author": "宝石gem"
+        },
+        {
+          "musicId": "503",
+          "name": "カサネテク",
+          "poster": "https://p1.music.126.net/KjtVVY8u1uRXbbZ7KjgOsw==/18554258720604958.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=474739593.mp3",
+          "author": "中村千寻"
+        },
+        {
+          "musicId": "504",
+          "name": "恋愛サーキュレーション",
+          "poster": "https://p1.music.126.net/hWrYLdhzF4waj4WL1dFPmg==/642114790633458.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=579954.mp3",
+          "author": "花澤香菜"
+        },
+        {
+          "musicId": "505",
+          "name": "Love Story",
+          "poster": "https://p1.music.126.net/KurKrZ-dMmviArT5lM2RCQ==/18517974836953202.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=569734247.mp3",
+          "author": "Taylor Swift"
+        },
+        {
+          "musicId": "506",
+          "name": "达拉崩吧（Cover 洛天依&言和）",
+          "poster": "https://p2.music.126.net/jMu6AAEFHQeg0wHSuWK5iQ==/109951162920302240.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=476114873.mp3",
+          "author": "三无MarBlue"
+        },
+        {
+          "musicId": "507",
+          "name": "我好像在哪里见过你（Cover 薛之谦）",
+          "poster": "https://p1.music.126.net/SyHtkjyFvGxm1GHFknHsQQ==/109951163000086113.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=501953290.mp3",
+          "author": "薛之谦"
+        }
+      ]
+    },
+    {
+      "albumId": "6",
+      "name": "热歌6",
+      "poster": "https://ws1.sinaimg.cn/large/0065oQSqgy1fxno2dvxusj30sf10nqcm.jpg",
+      "playNum": "203.3万",
+      "list": [
+        {
+          "musicId": "601",
+          "name": "甩葱歌",
+          "poster": "https://p2.music.126.net/bnccFHQX2nfoHNBLR31yiA==/109951163576855784.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=223339.mp3",
+          "author": "初XX来"
+        },
+        {
+          "musicId": "602",
+          "name": "野狼disco",
+          "poster": "https://p2.music.126.net/USRrIEfSNxJ4JnfKp4f6pA==/109951164470147956.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=1357785909.mp3",
+          "author": "宝石gem"
+        },
+        {
+          "musicId": "603",
+          "name": "カサネテク",
+          "poster": "https://p1.music.126.net/KjtVVY8u1uRXbbZ7KjgOsw==/18554258720604958.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=474739593.mp3",
+          "author": "中村千寻"
+        },
+        {
+          "musicId": "604",
+          "name": "恋愛サーキュレーション",
+          "poster": "https://p1.music.126.net/hWrYLdhzF4waj4WL1dFPmg==/642114790633458.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=579954.mp3",
+          "author": "花澤香菜"
+        },
+        {
+          "musicId": "605",
+          "name": "Love Story",
+          "poster": "https://p1.music.126.net/KurKrZ-dMmviArT5lM2RCQ==/18517974836953202.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=569734247.mp3",
+          "author": "Taylor Swift"
+        },
+        {
+          "musicId": "606",
+          "name": "达拉崩吧（Cover 洛天依&言和）",
+          "poster": "https://p2.music.126.net/jMu6AAEFHQeg0wHSuWK5iQ==/109951162920302240.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=476114873.mp3",
+          "author": "三无MarBlue"
+        },
+        {
+          "musicId": "607",
+          "name": "我好像在哪里见过你（Cover 薛之谦）",
+          "poster": "https://p1.music.126.net/SyHtkjyFvGxm1GHFknHsQQ==/109951163000086113.jpg",
+          "path": "http://music.163.com/song/media/outer/url?id=501953290.mp3",
+          "author": "薛之谦"
+        }
+      ]
+    }
+  ],
+  "hot": [
+    {
+      "musicId": "7",
+      "name": "甩葱歌",
+      "poster": "https://p2.music.126.net/bnccFHQX2nfoHNBLR31yiA==/109951163576855784.jpg",
+      "path": "http://music.163.com/song/media/outer/url?id=223339.mp3",
+      "author": "初XX来"
+    },
+    {
+      "musicId": "8",
+      "name": "野狼disco",
+      "poster": "https://p2.music.126.net/USRrIEfSNxJ4JnfKp4f6pA==/109951164470147956.jpg",
+      "path": "http://music.163.com/song/media/outer/url?id=1357785909.mp3",
+      "author": "宝石gem"
+    },
+    {
+      "musicId": "9",
+      "name": "カサネテク",
+      "poster": "https://p1.music.126.net/KjtVVY8u1uRXbbZ7KjgOsw==/18554258720604958.jpg",
+      "path": "http://music.163.com/song/media/outer/url?id=474739593.mp3",
+      "author": "中村千寻"
+    },
+    {
+      "musicId": "10",
+      "name": "恋愛サーキュレーション",
+      "poster": "https://p1.music.126.net/hWrYLdhzF4waj4WL1dFPmg==/642114790633458.jpg",
+      "path": "http://music.163.com/song/media/outer/url?id=579954.mp3",
+      "author": "花澤香菜"
+    },
+    {
+      "musicId": "11",
+      "name": "Love Story",
+      "poster": "https://p1.music.126.net/KurKrZ-dMmviArT5lM2RCQ==/18517974836953202.jpg",
+      "path": "http://music.163.com/song/media/outer/url?id=569734247.mp3",
+      "author": "Taylor Swift"
+    },
+    {
+      "musicId": "12",
+      "name": "达拉崩吧（Cover 洛天依&言和）",
+      "poster": "https://p2.music.126.net/jMu6AAEFHQeg0wHSuWK5iQ==/109951162920302240.jpg",
+      "path": "http://music.163.com/song/media/outer/url?id=476114873.mp3",
+      "author": "三无MarBlue"
+    },
+    {
+      "musicId": "13",
+      "name": "我好像在哪里见过你（Cover 薛之谦）",
+      "poster": "https://p1.music.126.net/SyHtkjyFvGxm1GHFknHsQQ==/109951163000086113.jpg",
+      "path": "http://music.163.com/song/media/outer/url?id=501953290.mp3",
+      "author": "薛之谦"
+    }
+  ]
+}
