@@ -54,6 +54,12 @@ public class MediaPlayerHelp {
          */
 
         mPath = path;
+        /**
+         * (错误逻辑！)当音乐进行切换的时候，如果音乐处于播放状态，
+         * 那么我们就去重置音乐的状态，而如果 音乐没有处于播放状态的话(暂停),那么就不去重置播放状态
+         *
+         */
+
         if (mMeidaPlayer.isPlaying()){
             mMeidaPlayer.reset();
         }
